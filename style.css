@@ -1,6 +1,11 @@
 #gc{
     margin:auto;
-    height: 50%;
-    width: 50%;
+    height: 80vh;
+    width: 40%;
+    padding: 40px 0;
 
+}
+
+body {
+    text-align: center;
 }
