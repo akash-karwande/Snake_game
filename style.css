@@ -9,3 +9,14 @@
 body {
     text-align: center;
 }
+
+@media(max-width: 767px) {
+    #gc{
+    margin:auto;
+    height: 80vh;
+    width: 90%;
+    padding: 20px 0;
+
+}
+
+}
